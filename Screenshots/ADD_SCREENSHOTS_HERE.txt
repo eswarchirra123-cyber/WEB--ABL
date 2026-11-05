@@ -1,0 +1,1 @@
+Add your own screenshots of the three websites in this folder after opening each index.html file in a browser.
